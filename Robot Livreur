@@ -1,0 +1,5 @@
+Robot Livreur
+
+On souhaite créer un robot livreur
+Pour savoir où aller nous allons utiliser un systeme de triangulation
+Le robot sera composé de 4 roues, 2 bras pour attraper un colis et des capteurs pour se diriger.
